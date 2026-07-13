@@ -1,0 +1,9 @@
+{
+  "default_months": 12,
+  "skus": {
+    "KB-77": { "months": 24, "category": "peripherals" },
+    "HP-31": { "months": 12, "category": "audio" },
+    "DK-05": { "months": 24, "category": "peripherals" },
+    "MS-12": { "months": 6, "category": "peripherals" }
+  }
+}
